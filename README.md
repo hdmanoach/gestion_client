@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Gestion des Clients
-=======
 # Gestionnaire de Répertoire Clients
 
 Une **mini-application Flask** permettant de gérer un répertoire client avec les opérations de base du CRUD : **ajout, édition, suppression et consultation des clients**. Ce projet a pour objectif d’apprendre Flask et les bases de la gestion de données dans une application web.
@@ -111,4 +108,3 @@ Ce projet utilise ** Flask-SQLAlchemy** pour stocker les clients avec les champs
 * Pagination et recherche des clients
 * Utilisation de Bootstrap pour améliorer l’interface
 * Passage à une base de données plus robuste (PostgreSQL ou MySQL)
->>>>>>> 757415b (Ajout du Readme)
